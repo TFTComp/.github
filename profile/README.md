@@ -6,8 +6,8 @@ Welcome to the official GitHub organization of TFT Companion, an application des
 
 Our organization hosts several repositories organizing the front-end and back-end components of the TFT Companion app:
 
-- **[TFTComp-Frontend](https://github.com/TFTComp/TFTComp-Frontend)** - The React-based frontend client that offers a responsive user interface for interacting with the game data and providing you with powerful insights.
-- **[TFTComp-Backend](https://github.com/TFTComp/TFTComp-Backend)** - The ASP.NET Core backend API, providing robust and secure endpoints for game data retrieval and processing.
+- **[TFTComp-Desktop](https://github.com/TFTComp/TFTComp-Desktop)** - The .NET MAUI Blazor Hybrid client that offers a responsive user interface for interacting with the game data and providing you with powerful insights.
+- **[TFTComp-API](https://github.com/TFTComp/TFTComp-API)** - The ASP.NET Core backend API, providing robust and secure endpoints for game data retrieval and processing.
 
 ## Features
 
